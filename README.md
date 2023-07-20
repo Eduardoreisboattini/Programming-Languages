@@ -1,7 +1,7 @@
 # Programming-Languages
 # My Programming Languages Repository
 
-Welcome to my programming languages repository! This repository contains code snippets, exercises, and small projects demonstrating my proficiency in various programming languages.
+Welcome to my programming languages repository! <br>This repository contains code snippets, exercises, and small projects demonstrating my proficiency in various programming languages.
 
 - [Python](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Python)
 - [JavaScript](https://github.com/Eduardoreisboattini/programming-languages/tree/main/JavaScript)
