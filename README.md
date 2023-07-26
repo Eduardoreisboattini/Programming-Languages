@@ -8,7 +8,7 @@ Welcome to my programming languages repository! <br>This repository contains cod
 - [Java](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2325%20Java)
 - [C++](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2326%20C%2B%2B)
 - [HTML](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2318%20HTML)
-- [CSS](https://github.com/Eduardoreisboattini/programming-languages/tree/main/HTML/CSS)
+- [CSS](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2319%20CSS)
 - [C#](https://github.com/Eduardoreisboattini/programming-languages/tree/main/C%23)
 - [Swift](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Swift)
 - [Go](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Go)
