@@ -3,7 +3,7 @@
 
 Welcome to my programming languages repository! <br>This repository contains code snippets, exercises, and small projects demonstrating my proficiency in various programming languages.
 
-- [Python](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Python)
+- [Python](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2328%20Python)
 - [JavaScript](https://github.com/Eduardoreisboattini/programming-languages/tree/main/JavaScript)
 - [Java](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Java)
 - [C++](https://github.com/Eduardoreisboattini/programming-languages/tree/main/C++)
