@@ -6,7 +6,7 @@ Welcome to my programming languages repository! <br>This repository contains cod
 - [Python](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2328%20Python)
 - [JavaScript](https://github.com/Eduardoreisboattini/programming-languages/tree/main/JavaScript)
 - [Java](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Java)
-- [C++](https://github.com/Eduardoreisboattini/programming-languages/tree/main/C++)
+- [C++](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2326%20C%2B%2B)
 - [HTML/CSS](https://github.com/Eduardoreisboattini/programming-languages/tree/main/HTML/CSS)
 - [Ruby](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Ruby)
 - [C#](https://github.com/Eduardoreisboattini/programming-languages/tree/main/C%23)
