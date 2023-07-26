@@ -21,6 +21,7 @@ Welcome to my programming languages repository! <br>This repository contains cod
 - [Perl](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Perl)
 - [Haskell](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Haskell)
 - [R](https://github.com/Eduardoreisboattini/programming-languages/tree/main/R)
+- [Ruby](https://github.com/Eduardoreisboattini/GitHub_PROJECT/tree/main/%2351%20Ruby)
 - [Lua](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Lua)
 - [Dart](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Dart)
 - [Shell Scripting](https://github.com/Eduardoreisboattini/programming-languages/tree/main/Shell-Scripting)
