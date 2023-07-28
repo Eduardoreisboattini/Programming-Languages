@@ -38,7 +38,7 @@ Feel free to explore the projects and examples I've created for each language!
 
 #
 ## Languages Library
-Sure! Here is an extensive list of 300 programming languages that a programmer might consider learning to enhance their skills and knowledge:
+Here is an extensive list of 300 programming languages that a programmer might consider learning to enhance their skills and knowledge:
 
 1. Python [![Python](https://img.shields.io/badge/-Python-blue)]
 2. JavaScript [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]
