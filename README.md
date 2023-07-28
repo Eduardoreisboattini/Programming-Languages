@@ -40,7 +40,8 @@ Feel free to explore the projects and examples I've created for each language!
 ## Languages Library
 Here is an extensive list of 300 programming languages that a programmer might consider learning to enhance their skills and knowledge:
 
-# Full Stack Development Technologies
+#
+## Full Stack Development Technologies
 
 [![Assembly](https://img.shields.io/badge/assembly-%23F36223.svg?style=for-the-badge&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -48,7 +49,7 @@ Here is an extensive list of 300 programming languages that a programmer might c
 [![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Clojure](https://img.shields.io/badge/clojure-%23854D27.svg?style=for-the-badge&logo=clojure&logoColor=white)](https://clojure.org/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Elixir](https://img.shields.io/badge/elixir-%#4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
+[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Haskell](https://img.shields.io/badge/haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![Java](https://img.shields.io/badge/java-%23E11E27.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -75,3 +76,36 @@ Here is an extensive list of 300 programming languages that a programmer might c
 [![GraphQL](https://img.shields.io/badge/graphql-%23E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![RESTful API](https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 [![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+[![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Travis CI](https://img.shields.io/badge/travis%20ci-%233EAAAF.svg?style=for-the-badge&logo=travisci&logoColor=white)](https://travis-ci.org/)
+[![Heroku](https://img.shields.io/badge/heroku-%234A154B.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Amazon AWS](https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+[![MacOS](https://img.shields.io/badge/macos-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![VS Code](https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Sublime Text](https://img.shields.io/badge/sublime%20text-%23575757.svg?style=for-the-badge&logo=sublimetext&logoColor=white)](https://www.sublimetext.com/)
+[![Vim](https://img.shields.io/badge/vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Google Meet](https://img.shields.io/badge/google%20meet-%234285F4.svg?style=for-the-badge&logo=googlemeet&logoColor=white)](https://meet.google.com/)
+[![Zoom](https://img.shields.io/badge/zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/)
+
+
+
