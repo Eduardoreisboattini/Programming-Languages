@@ -37,8 +37,6 @@ Welcome to my programming languages repository! <br>This repository contains cod
 Feel free to explore the projects and examples I've created for each language!
 
 #
-## Languages Library
-Here is an extensive list of 300 programming languages that a programmer might consider learning to enhance their skills and knowledge:
 
 #
 ## Full Stack Development Technologies
@@ -107,5 +105,7 @@ Here is an extensive list of 300 programming languages that a programmer might c
 [![Google Meet](https://img.shields.io/badge/google%20meet-%234285F4.svg?style=for-the-badge&logo=googlemeet&logoColor=white)](https://meet.google.com/)
 [![Zoom](https://img.shields.io/badge/zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/)
 
+## Languages Library
+Here is an extensive list of 300 programming languages that a programmer might consider learning to enhance their skills and knowledge:
 
 
